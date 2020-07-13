@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoàng Cao Minh</title>
+    <style>
+        #mienBac{
+            background-color: chartreuse;
+        }
+        #mienTrung{
+            background-color: gold;
+        }
+        #mienNam{
+            background-color: coral;
+        }
+        .trungUong{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="mienBac">
+    <p class="trungUong">Hà nội</p>
+    <p>Hải phòng</p>
+    <p>Nam định</p>
+    </div>
+
+    <div id="mienTrung">
+    <p>Thanh hóa</p>
+    <p>Nghệ an</p>
+    <p>Hà tĩnh</p>
+    </div>
+
+    <div id="mienNam">
+    <p>Cần thơ</p>
+    <p>Vĩnh long</p>
+    <p class="trungUong">Hồ chí minh</p>
+    </div>
+</body>
+</html>
